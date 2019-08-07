@@ -1,0 +1,3 @@
+GUI java program that generates clock who runs on 2 seperate threads: 1 for moving the clock and 1 for announce
+the time every minute.
+In this program i'm using some design patterns, gui and threads
